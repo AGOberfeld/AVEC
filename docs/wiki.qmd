@@ -2,54 +2,34 @@
 title: "AVEC Wiki"
 ---
 
-## Project description ##
+## Project description
 
-In this research project, we investigate the role of auditory perception for safe mobility, with a focus on pedestrians' interaction with vehicles in street-crossing situations.
-The project is funded by Deutsche Forschungsgemeinschaft (DFG.de). The PIs are Daniel Oberfeld-Twistel Johannes Gutenberg-Universität Mainz (grant OB 346/8-1) and Ercan Altinsoy (Technische Universität Dresden), see [link][1]. The project is a part of the priority program "AUDICTIVE - SPP2236: Auditory Cognition in Interactive Virtual Environments" ([AUDICTIVE web page][2],[OSF repository][3])
+In this research project, we investigate the role of auditory perception for safe mobility, with a focus on pedestrians' interaction with vehicles in street-crossing situations. The project is funded by Deutsche Forschungsgemeinschaft (DFG.de). The PIs are Daniel Oberfeld-Twistel Johannes Gutenberg-Universität Mainz (grant OB 346/8-1) and Ercan Altinsoy (Technische Universität Dresden), see [link](https://gepris.dfg.de/gepris/projekt/444809588?language=en). The project is a part of the priority program "AUDICTIVE - SPP2236: Auditory Cognition in Interactive Virtual Environments" ([AUDICTIVE web page](https://www.spp2236-audictive.de//),[OSF repository](https://osf.io/jzf8v/))
 
-Abstract:
+**Abstract Project Phase 1:**
 
-Even though research on auditory perception and cognition often focuses on speech communication, acoustic information is of high importance for another vital cognitive achievement: our navigation through the environment. Safe mobility requires the ability to avoid potentially dangerous collisions with objects in the environment. In particular, a pedestrian crossing a street must avoid to be hit by an approaching vehicle. In such a situation, our sense of hearing provides important information. For example, we can auditorily detect a vehicle approaching us from behind and thus outside our field of view. The first objective of the project is to investigate the use of acoustic cues in judgments that are germane to safe mobility. We focus on judgments of time-to-collision (TTC; "When will the vehicle arrive at my position?") and street-crossing decisions from a pedestrian's perspective. The experiments address fundamental research questions and also include a comparison between electric and conventional vehicles, and between driving conditions (approaches of the vehicles with constant velocity, accelerated approaches). The second objective of the project is to design a multimodal virtual environment technology improving the existing technologies to realize the accurate multimodal reproduction of traffic scenarios. This includes the development of a synthesis model/tool which generates and auralizes vehicle pass-by sounds. Also, we will develop audio-visual recording tools for the plausible VR-reproduction of daily life traffic scenarios.The third objective of the project is to evaluate and compare both existing audio-visual virtual environment technologies for the simulation of street-crossing scenarios and the new technologies developed in this project, based on a) dynamic analyses of a physical and psychoacoustic parameters, b) a perceptual comparison of sound and simulation quality attributes, and c) a behavioral evaluation in selected navigation-related tasks. The experiments in the corresponding work package compare different approaches to creating the pass-by sounds and different auralization approaches. 
+Even though research on auditory perception and cognition often focuses on speech communication, acoustic information is of high importance for another vital cognitive achievement: our navigation through the environment. Safe mobility requires the ability to avoid potentially dangerous collisions with objects in the environment. In particular, a pedestrian crossing a street must avoid to be hit by an approaching vehicle. In such a situation, our sense of hearing provides important information. For example, we can auditorily detect a vehicle approaching us from behind and thus outside our field of view. The first objective of the project is to investigate the use of acoustic cues in judgments that are germane to safe mobility. We focus on judgments of time-to-collision (TTC; "When will the vehicle arrive at my position?") and street-crossing decisions from a pedestrian's perspective. The experiments address fundamental research questions and also include a comparison between electric and conventional vehicles, and between driving conditions (approaches of the vehicles with constant velocity, accelerated approaches). The second objective of the project is to design a multimodal virtual environment technology improving the existing technologies to realize the accurate multimodal reproduction of traffic scenarios. This includes the development of a synthesis model/tool which generates and auralizes vehicle pass-by sounds. Also, we will develop audio-visual recording tools for the plausible VR-reproduction of daily life traffic scenarios.The third objective of the project is to evaluate and compare both existing audio-visual virtual environment technologies for the simulation of street-crossing scenarios and the new technologies developed in this project, based on a) dynamic analyses of a physical and psychoacoustic parameters, b) a perceptual comparison of sound and simulation quality attributes, and c) a behavioral evaluation in selected navigation-related tasks. The experiments in the corresponding work package compare different approaches to creating the pass-by sounds and different auralization approaches.
 
-## Publications ##
-### Articles ###
+**Abstract Project Phase 2:**
 
- 1. Oberfeld, D., Wessels, M. & Büttner, D. (2022). Overestimated
-    time-to-collision for quiet vehicles: Evidence from a study using a
-    novel audiovisual virtual-reality system for traffic scenarios.
-    Accid. Anal. Prev. 175, 106778. doi: [10.1016/j.aap.2022.106778][4]
- 2. Wessels, M., Zähme, C. & Oberfeld, D. (2022). Auditory information
-    improves time-to-collision estimation for accelerating vehicles.
-    Current Psychology. doi: [10.1007/s12144-022-03375-6][5]
- 3. Wessels, M., Hecht, H., Huisman, T., Oberfeld, D. (2023)
-    Trial-by-trial feedback fails to improve the consideration of
-    acceleration in visual time-to-collision estimation. *PLoS One*
-    18(8): e0288206. doi: [10.1371/journal.pone.0288206][6] [[Dataset]](https://doi.org/10.17605/OSF.IO/VF7C3)
- 4. Oberfeld, D., Altinsoy, E., Huisman, T., Beyer, F., & Wessels, M.
-    (2023). Audio-visual perception of vehicles while navigating in
-    traffic: Design, evaluation, and research application of multimodal
-    virtual environment technologies. In Balint, J. & Fels, J. (Eds.),
-    *Proceedings of the 1st AUDICTIVE Conference*, June 2023, RWTH Aachen, pp. 113-116. doi: [10.18154/RWTH-2023-05549][7].
- 5. Oberfeld, D., Huisman, T., & Wessels, M. (2023). Pedestrians’
-    time-to-collision estimation and road crossing judgments differ
-    between electric and conventional vehicles. In H. Rottengruber & T.
-    Luft (Eds.), *Aggregate- und Antriebsakustik. Tagungsband des 12.
-    Magdeburger Symposiums*. Magdeburg: Otto-von-Guericke-Universität
-    Magdeburg. doi: [10.25673/103503][8].
- 6. Oberfeld, D., Wessels, M., & Huisman, T. (2023). Auditory and
-    audiovisual time-to-collision estimation and road-crossing
-    decisions. In *Proceedings of the 10th Convention of the European
-    Acoustics Association (Forum Acusticum)*, Turin, Italy, 11th – 15th
-    September 2023. [\[PDF\]][9]
- 7. Oberfeld, D., & Huisman, T. (2024). Pedestrians' street-crossing
-    decisions compared between conventional and electric vehicles. In
-    *Proceedings of Inter.noise 2024*, Nantes, France, 25.-29. August 2024. [[Manuscript]][10]
- 8. Krautwurm, J., Oberfeld-Twistel, D., Huisman, T., Maravich, M. M., & Altinsoy, E. (2025). Quality Comparison of Dynamic Auditory Virtual-Reality Simulation Approaches of Approaching Vehicles Regarding Perceptual Behavior and Psychoacoustic Values.  *Acoustics* 2025, 7(1), 7. https://doi.org/10.3390/acoustics7010007 
- 9. Oberfeld, D., Huisman, T., & DeLucia, P. R. (under review). Quieter vehicles result in riskier pedestrian street-crossing decisions. [[Preprint]](https://osf.io/preprints/psyarxiv/n59gf_v2) [[Datasets]][13]
- 10. Huisman, T., DeLucia, P.R., & Oberfeld, D. (under review). The effect of vehicle sound intensity on auditory-only and audio-visual time-to-collision estimation. [[Preprint]][14] [[Datasets]][15]
+In the second phase of AUDICTIVE, our project continues to investigate the role of auditory perception and cognition for safe mobility, by studying judgments of time-to-collision (TTC; "When will the vehicle arrive at my position?") and street-crossing decisions from a pedestrian's perspective. For this, we use the interactive and realistic audio-visual virtual-reality simulations of electric and conventional vehicles approaching pedestrians in a street-crossing scenario that were implemented in the first phase, and we will refine and extend the simulations systems. The objective of work package (WP) A is to understand the perceptual mechanisms underlying the beneficial effects of the sound of accelerating vehicles with internal combustion engine (ICE) on TTC estimation and street-crossing decisions that were consistently observed in phase 1. WP B investigates the auditory perception of distance, velocity, and acceleration, for the specific case of approaching vehicles. The aim is to explain the cue weights in TTC estimation and street-crossing decisions observed in project phase 1 and in WP A based on the auditory sensitivity in the basic tasks, and conditional on the availability of different acoustic cues. Because the results of phase 1 showed a significantly smaller benefit of the sound of accelerating electric vehicles, even with acoustic vehicle alerting system (AVAS), WP C investigates how AVAS designs can be improved so that they provide acceleration information as effectively as the sound of an ICE vehicle. Plausibility of the traffic situations and events, which are portrayed within an immersive virtual reality system, can play an important role on the traffic safety and sound quality investigations. Design aspects and the complexity of the VR environment have an influence on the perceived overall plausibility of these virtual-reality-based simulations. The effect of complexity on plausibility ratings and behavior of subjects will be investigated in experiments on TTC-estimation and street-crossing decisions. First, in WP D, the complexity of virtual sound sources is increased by taking into account the directional characteristics of vehicle sub-sources. For this purpose, a new vehicle recording method is developed, based on which new virtual source models are created. WP E focuses on the complexity of scene content, from an empty street to the complexity of a lively street, and the influence of auditory simulation accuracy on plausibility. Finally, WP F investigates the influence of additional technical and social distraction factors on the plausibility evaluation and behavior of the subjects by giving them additional tasks with smartphones or interactions with people during traffic safety experiments.
 
- 
-### Invited talks and conference presentations ###
+## Publications
+
+### Articles
+
+1.  Oberfeld, D., Wessels, M. & Büttner, D. (2022). Overestimated time-to-collision for quiet vehicles: Evidence from a study using a novel audiovisual virtual-reality system for traffic scenarios. Accid. Anal. Prev. 175, 106778. doi: [10.1016/j.aap.2022.106778](https://doi.org/10.1016/j.aap.2022.106778)
+2.  Wessels, M., Zähme, C. & Oberfeld, D. (2022). Auditory information improves time-to-collision estimation for accelerating vehicles. Current Psychology. doi: [10.1007/s12144-022-03375-6](https://doi.org/10.1007/s12144-022-03375-6)
+3.  Wessels, M., Hecht, H., Huisman, T., Oberfeld, D. (2023) Trial-by-trial feedback fails to improve the consideration of acceleration in visual time-to-collision estimation. *PLoS One* 18(8): e0288206. doi: [10.1371/journal.pone.0288206](https://doi.org/10.1371/journal.pone.0288206) [\[Dataset\]](https://doi.org/10.17605/OSF.IO/VF7C3)
+4.  Oberfeld, D., Altinsoy, E., Huisman, T., Beyer, F., & Wessels, M. (2023). Audio-visual perception of vehicles while navigating in traffic: Design, evaluation, and research application of multimodal virtual environment technologies. In Balint, J. & Fels, J. (Eds.), *Proceedings of the 1st AUDICTIVE Conference*, June 2023, RWTH Aachen, pp. 113-116. doi: [10.18154/RWTH-2023-05549](https://publications.rwth-aachen.de/record/959048).
+5.  Oberfeld, D., Huisman, T., & Wessels, M. (2023). Pedestrians’ time-to-collision estimation and road crossing judgments differ between electric and conventional vehicles. In H. Rottengruber & T. Luft (Eds.), *Aggregate- und Antriebsakustik. Tagungsband des 12. Magdeburger Symposiums*. Magdeburg: Otto-von-Guericke-Universität Magdeburg. doi: [10.25673/103503](http://dx.doi.org/10.25673/103503).
+6.  Oberfeld, D., Wessels, M., & Huisman, T. (2023). Auditory and audiovisual time-to-collision estimation and road-crossing decisions. In *Proceedings of the 10th Convention of the European Acoustics Association (Forum Acusticum)*, Turin, Italy, 11th – 15th September 2023. [\[PDF\]](https://www.doi.org/10.61782/fa.2023.0649)
+7.  Oberfeld, D., & Huisman, T. (2024). Pedestrians' street-crossing decisions compared between conventional and electric vehicles. In *Proceedings of Inter.noise 2024*, Nantes, France, 25.-29. August 2024. [\[Manuscript\]](https://www.staff.uni-mainz.de/oberfeld/downloads/IN_2024_4062.pdf)
+8.  Krautwurm, J., Oberfeld-Twistel, D., Huisman, T., Maravich, M. M., & Altinsoy, E. (2025). Quality Comparison of Dynamic Auditory Virtual-Reality Simulation Approaches of Approaching Vehicles Regarding Perceptual Behavior and Psychoacoustic Values. *Acoustics* 2025, 7(1), 7. doi: [10.3390/acoustics7010007](https://doi.org/10.3390/acoustics7010007)
+9.  Oberfeld, D., Huisman, T., & DeLucia, P. R. (under review). Quieter vehicles result in riskier pedestrian street-crossing decisions. [\[Preprint\]](https://osf.io/preprints/psyarxiv/n59gf_v2) [\[Datasets\]](https://osf.io/2vx54/)
+10. Huisman, T., DeLucia, P.R., & Oberfeld, D. (2026). The effect of vehicle sound intensity on time-to-collision estimation. *Acta Acustica*, 10,23. doi: [10.1051/aacus/2026019](https://doi.org/10.1051/aacus/2026019) [\[Datasets\]](https://osf.io/7dqgj/)
+
+### Invited talks and conference presentations
 
 Huisman, T., Wessels, M. & Oberfeld, D. (2025). Vehicle sound affects pedestrians’ perception of accelerating (audio-)visual vehicles. Talk, European Conference on Visual Perception 2025, Mainz.
 
@@ -71,34 +51,14 @@ Oberfeld, D. & Huisman, T. (2024). Pedestrians' street-crossing decisions compar
 
 Oberfeld, D. (2024). Auditory and audiovisual time-to-collision estimation and road-crossing judgments. Invited talk, seminar of the Laboratoire de Mécanique et d'Acoustique, Marseille, France, October 2024, invited by Dr. Sabine Meunier.
 
-Huisman, T. & Oberfeld, D. (2024). The effect of vehicle intensity on pedestrians’ time-to-contact estimation and street crossing decisions. Talk, structured Session „SPP2236 - Auditory Cognition in Interactive Virtual Environments 2“, DAGA 2024, Hannover. 
-[\[Link\]][16]
+Huisman, T. & Oberfeld, D. (2024). The effect of vehicle intensity on pedestrians’ time-to-contact estimation and street crossing decisions. Talk, structured Session „SPP2236 - Auditory Cognition in Interactive Virtual Environments 2“, DAGA 2024, Hannover. [\[Link\]](https://pub.dega-akustik.de/DAGA_2024/konferenz?article=67)
 
 Körtje, M., Kuhmann, J., Wessels, M., Baumann, U., Stöver, T., Oberfeld-Twistel, D., & Weißgerber, T. (2024). Audiovisuelle Kontaktzeitschätzung im Straßenverkehr bei Menschen mit bilateraler Cochlea-Implantat-Versorgung. HNO-Kongress 2024.
 
-Oberfeld, D. (2023). Pedestrians’ time-to-collision estimation and road crossing judgments differ between electric and conventional vehicles. Plenary talk. Symposium "Aggregrate- und Antriebsakustik", Uni Magdeburg, June 2023, invited by Prof. Jesko Verhey. [Manuscript][17]
+Oberfeld, D. (2023). Pedestrians’ time-to-collision estimation and road crossing judgments differ between electric and conventional vehicles. Plenary talk. Symposium "Aggregrate- und Antriebsakustik", Uni Magdeburg, June 2023, invited by Prof. Jesko Verhey. [Manuscript](http://dx.doi.org/10.25673/103378)
 
 Huisman, T., Wessels, M., Oberfeld, D. (2023). Analysing pedestrians’ head motion in a simulated street-crossing scenario. Talk, structured session „Motion and eye-gaze behavior during listening scenarios in real and virtual environments“, DAGA 2023, Hamburg.
 
 Oberfeld, D. (2022). Auditory and audiovisual time-to-collision estimation and road crossing judgments. Invited talk, workshop "Improving mobility with low vision", Rice University Houston, July 2022, invited by Prof. Pat DeLucia.
 
 Oberfeld, D., Wessels, M., & Büttner, D. (2021). Auditory and audiovisual time-to-collision judgments for electric and conventional vehicles. 47. Jahrestagung für Akustik (DAGA 2021), Wien.
-
-
-  [1]: https://gepris.dfg.de/gepris/projekt/444809588?language=en
-  [2]: https://www.spp2236-audictive.de//
-  [3]: https://osf.io/jzf8v/
-  [4]: https://doi.org/10.1016/j.aap.2022.106778
-  [5]: https://doi.org/10.1007/s12144-022-03375-6
-  [6]: https://doi.org/10.1371/journal.pone.0288206
-  [7]: https://publications.rwth-aachen.de/record/959048
-  [8]: http://dx.doi.org/10.25673/103503
-  [9]: https://www.doi.org/10.61782/fa.2023.0649
-  [10]: https://www.staff.uni-mainz.de/oberfeld/downloads/IN_2024_4062.pdf
-  [11]: https://osf.io/2vx54/files/osfstorage/67ebab6dd2f1ce26896de052
-  [12]: https://doi.org/10.31234/osf.io/dxy8k_v2
-  [13]: https://osf.io/2vx54/
-  [14]: https://osf.io/n59gf_v2
-  [15]: https://osf.io/7dqgj/
-  [16]: https://pub.dega-akustik.de/DAGA_2024/konferenz?article=67
-  [17]: http://dx.doi.org/10.25673/103378
