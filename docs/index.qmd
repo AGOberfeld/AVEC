@@ -1,0 +1,12 @@
+---
+title: "AVEC"
+subtitle: "Auditory and Visual Perception of Vehicles in Pedestrian Crossing Decisions"
+---
+
+Welcome to the central landing page of the AVEC project. Here you find the project wiki,
+and an overview of our publications and datasets.
+
+- [Project Wiki](wiki.qmd)
+- [Publications & Datasets](outputs.qmd)
+- [OSF project](https://osf.io/ubsm3/)
+- [GitHub repository](https://github.com/AGOberfeld/AVEC)

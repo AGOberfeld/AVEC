@@ -1,0 +1,8 @@
+---
+title: "Project Wiki"
+---
+
+::: {.callout-note}
+The wiki content is maintained on OSF: <https://osf.io/ubsm3/wiki?wiki=qbd84>.
+Paste the wiki's Markdown below (replacing this notice) to host it on this site.
+:::
