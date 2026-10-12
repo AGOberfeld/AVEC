@@ -1,0 +1,12 @@
+---
+title: "Publications & Datasets"
+---
+
+## Publications
+
+- *Add publications here (with Zenodo/DOI links).*
+
+## Datasets and materials
+
+- OSF project: <https://osf.io/ubsm3/>
+- Zenodo: *add Zenodo record links here.*

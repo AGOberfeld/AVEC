@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: ../_site
+
+website:
+  title: "AVEC"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: wiki.qmd
+        text: Project Wiki
+      - href: outputs.qmd
+        text: Publications & Datasets
+    right:
+      - icon: github
+        href: https://github.com/AGOberfeld/AVEC
+
+format:
+  html:
+    theme: cosmo
