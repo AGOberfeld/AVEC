@@ -8,5 +8,5 @@ title: "Publications & Datasets"
 
 ## Datasets and materials
 
-- OSF project: <https://osf.io/ubsm3/>
-- Zenodo: *add Zenodo record links here.*
+- Note: this information was oriuginally maintained on OSF  <https://osf.io/ubsm3/>. Due to the OSF platform no longer offering project hosting, we are now providing this information on this web page.
+
