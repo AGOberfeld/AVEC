@@ -4,7 +4,7 @@ title: "AVEC Wiki"
 
 ## Project description
 
-In this research project, we investigate the role of auditory perception for safe mobility, with a focus on pedestrians' interaction with vehicles in street-crossing situations. The project is funded by Deutsche Forschungsgemeinschaft (DFG.de). The PIs are Daniel Oberfeld-Twistel Johannes Gutenberg-Universität Mainz (grant OB 346/8-1) and Ercan Altinsoy (Technische Universität Dresden), see [link](https://gepris.dfg.de/gepris/projekt/444809588?language=en). The project is a part of the priority program "AUDICTIVE - SPP2236: Auditory Cognition in Interactive Virtual Environments" ([AUDICTIVE web page](https://www.spp2236-audictive.de//),[OSF repository](https://osf.io/jzf8v/))
+In this research project, we investigate the role of *auditory perception* for safe mobility, with a focus on pedestrians' interaction with vehicles in street-crossing situations. The project is funded by Deutsche Forschungsgemeinschaft (DFG.de). The PIs are Daniel Oberfeld-Twistel Johannes Gutenberg-Universität Mainz (grant OB 346/8-1) and Ercan Altinsoy (Technische Universität Dresden), see [link](https://gepris.dfg.de/gepris/projekt/444809588?language=en). The project is a part of the priority program "AUDICTIVE - SPP2236: Auditory Cognition in Interactive Virtual Environments" ([AUDICTIVE web page](https://www.spp2236-audictive.de//),[OSF repository](https://osf.io/jzf8v/))
 
 **Abstract Project Phase 1:**
 
