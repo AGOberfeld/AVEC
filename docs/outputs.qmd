@@ -4,8 +4,6 @@ title: "Publications & Datasets"
 
 ## Publications
 
-- *Add publications here (with Zenodo/DOI links).*
-
 ### Articles
 
 1.  Oberfeld, D., Wessels, M. & Büttner, D. (2022). Overestimated time-to-collision for quiet vehicles: Evidence from a study using a novel audiovisual virtual-reality system for traffic scenarios. Accid. Anal. Prev. 175, 106778. doi: [10.1016/j.aap.2022.106778](https://doi.org/10.1016/j.aap.2022.106778)
@@ -76,6 +74,6 @@ Oberfeld, D. (2022). Auditory and audiovisual time-to-collision estimation and r
 
 Oberfeld, D., Wessels, M., & Büttner, D. (2021). Auditory and audiovisual time-to-collision judgments for electric and conventional vehicles. 47. Jahrestagung für Akustik (DAGA 2021), Wien.
 
-## Datasets and materials
+## Note
 
-- Note: this information was oriuginally maintained on OSF <https://osf.io/ubsm3/>. Due to the OSF platform no longer offering project hosting, we are now providing this information on this web page.
+- This information was originally maintained on OSF <https://osf.io/ubsm3/>. Due to the OSF platform no longer offering project hosting, we are now providing this information here.
