@@ -1,1 +1,83 @@
+---
+title: "People"
+---
 
+<style>
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 35px 25px;
+  margin-top: 30px;
+}
+
+.person {
+  text-align: center;
+}
+
+.person img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.person h3 {
+  font-size: 1.1rem;
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+.person p {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 450px) {
+  .people-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+Meet the people behind our project.
+
+<div class="people-grid">
+
+  <div class="person">
+    <img src="images/people/daniel-oberfeld-twistel.jpg" alt="Daniel Oberfeld-Twistel">
+    <h3>Daniel Oberfeld-Twistel</h3>
+    <p>Johannes Gutenberg-Universität Mainz</p>
+  </div>
+
+  <div class="person">
+    <img src="images/people/thirsa-huisman.jpg" alt="Thirsa Huisman">
+    <h3>Thirsa Huisman</h3>
+    <p>Johannes Gutenberg-Universität Mainz</p>
+  </div>
+
+  <div class="person">
+    <img src="images/people/ercan-altinsoy.jpg" alt="Ercan Altinsoy">
+    <h3>Ercan Altinsoy</h3>
+    <p>TU Dresdent</p>
+  </div>
+
+  <div class="person">
+    <img src="images/people/jonas-krautwurm.jpg" alt="Jonas Krautwurm">
+    <h3>Jonas Krautwurm</h3>
+    <p>TU Dresden</p>
+  </div>
+
+  <div class="person">
+    <img src="images/people/maria-maravich.jpg" alt="Maria Maravich">
+    <h3>Maria Maravich</h3>
+    <p>TU Dresden</p>
+  </div>
+
+</div>
