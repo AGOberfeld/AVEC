@@ -12,6 +12,8 @@ website:
         text: Project Wiki
       - href: outputs.qmd
         text: Publications & Datasets
+      - href: people.qmd
+        text: People
     right:
       - icon: github
         href: https://github.com/AGOberfeld/AVEC
