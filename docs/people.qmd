@@ -48,36 +48,46 @@ title: "People"
 
 Meet the people behind our project.
 
-<div class="people-grid">
+::: {.people-grid}
 
-  <div class="person">
-    <img src="images/people/daniel-oberfeld-twistel.jpg" alt="Daniel Oberfeld-Twistel">
-    <h3>Daniel Oberfeld-Twistel</h3>
-    <p>Johannes Gutenberg-Universität Mainz</p>
-  </div>
+::: {.person}
+![](images/people/daniel-oberfeld-twistel.jpg)
 
-  <div class="person">
-    <img src="images/people/thirsa-huisman.jpg" alt="Thirsa Huisman">
-    <h3>Thirsa Huisman</h3>
-    <p>Johannes Gutenberg-Universität Mainz</p>
-  </div>
+### Daniel Oberfeld-Twistel
 
-  <div class="person">
-    <img src="images/people/ercan-altinsoy.jpg" alt="Ercan Altinsoy">
-    <h3>Ercan Altinsoy</h3>
-    <p>TU Dresdent</p>
-  </div>
+Johannes Gutenberg-Universität Mainz
+:::
 
-  <div class="person">
-    <img src="images/people/jonas-krautwurm.jpg" alt="Jonas Krautwurm">
-    <h3>Jonas Krautwurm</h3>
-    <p>TU Dresden</p>
-  </div>
+::: {.person}
+![](images/people/thirsa-huisman.jpg)
 
-  <div class="person">
-    <img src="images/people/maria-maravich.jpg" alt="Maria Maravich">
-    <h3>Maria Maravich</h3>
-    <p>TU Dresden</p>
-  </div>
+### Thirsa Huisman
 
-</div>
+Johannes Gutenberg-Universität Mainz
+:::
+
+::: {.person}
+![](images/people/ercan-altinsoy.jpg)
+
+### Ercan Altinsoy
+
+TU Dresden
+:::
+
+::: {.person}
+![](images/people/jonas-krautwurm.jpg)
+
+### Jonas Krautwurm
+
+TU Dresden
+:::
+
+::: {.person}
+![](images/people/maria-maravich.jpg)
+
+### Maria Maravich
+
+TU Dresden
+:::
+
+:::
